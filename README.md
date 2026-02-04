@@ -53,6 +53,17 @@ As agent John, tested the internal note functionality with a “read-only” use
 
 <img width="1302" height="1426" alt="image" src="https://github.com/user-attachments/assets/0fea9817-43a9-41dc-aa91-299c9c413e1a" />
 
+<h2>🎫 Agent Ticket Management: Updates, Communication, and Escalation</h2>
+
+As agent John with full access, managed a support ticket through its lifecycle. Updated the ticket’s priority level, SLA, and help topic to ensure proper routing and service expectations. Responded to the customer by posting a reply, then transferred the ticket to the appropriate department for further resolution
+
+<img width="1290" height="1535" alt="image" src="https://github.com/user-attachments/assets/fd800651-75ef-44bf-aa76-44058020dc65" />
+<img width="999" height="1080" alt="image" src="https://github.com/user-attachments/assets/3410fd19-e208-43d0-a522-d5ec4a199836" />
+<img width="1158" height="866" alt="image" src="https://github.com/user-attachments/assets/bdfa46de-f74f-4151-baa3-9734d2c283d0" />
+
+
+
+
 
 
 
