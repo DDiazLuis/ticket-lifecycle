@@ -28,4 +28,12 @@ This project demonstrates the full ticket lifecycle in osTIcket, from user intak
 - Local or cloud-based lab environment
 - Windows 10</b> (21H2)
 
+<h2>🔐 osTicket Administration – Department Management</h2>
+
+Logged into the osTicket Admin Panel with administrator privileges and navigated to Agent and Department management. Selected the appropriate department and removed it using the administrative delete function to maintain an accurate and efficient ticket-routing structure.
+
+<img width="1045" height="632" alt="image" src="https://github.com/user-attachments/assets/a9548734-1b9c-414f-a246-ec5295b100fd" />
+
+
+
 
