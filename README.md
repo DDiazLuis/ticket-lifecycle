@@ -35,5 +35,10 @@ Logged into the osTicket Admin Panel with administrator privileges and navigated
 <img width="1045" height="632" alt="image" src="https://github.com/user-attachments/assets/a9548734-1b9c-414f-a246-ec5295b100fd" />
 
 
+<h2>👤 End User Interaction: Ticket Submission</h2>
+
+Accessed the osTicket Support Center as an end user and submitted a new support ticket. Provided contact information, selected the appropriate help topic, and described the issue to ensure accurate routing and prompt resolution by the support team.
+
+<img width="777" height="978" alt="image" src="https://github.com/user-attachments/assets/909f8a01-c893-4807-b5a9-773b3dec73d6" />
 
 
