@@ -61,6 +61,17 @@ As agent John with full access, managed a support ticket through its lifecycle. 
 <img width="999" height="1080" alt="image" src="https://github.com/user-attachments/assets/3410fd19-e208-43d0-a522-d5ec4a199836" />
 <img width="1158" height="866" alt="image" src="https://github.com/user-attachments/assets/bdfa46de-f74f-4151-baa3-9734d2c283d0" />
 
+<h2>✅ Ticket Resolution: Agent Review, Response, and Confirmation</h2>
+
+As agent Jane, received the transferred ticket and reviewed the ticket thread. Responded to the customer, confirming that the issue was resolved, and updated the ticket status to “Resolved.” Used the advanced search to locate the ticket and formally closed it to complete the ticket lifecycle.
+
+<img width="1005" height="1016" alt="image" src="https://github.com/user-attachments/assets/f23f24fe-53a4-4dd8-bb1b-93fd6c9dffa7" />
+<img width="995" height="1083" alt="image" src="https://github.com/user-attachments/assets/afa55c05-d2c2-4a5c-89c4-7b4f4c281580" />
+<img width="962" height="1025" alt="image" src="https://github.com/user-attachments/assets/016192b7-d59a-436a-a5bf-d5aef9b7f4c1" />
+
+
+
+
 
 
 
